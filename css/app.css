@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+  border: 1px solid black;
+}
+
+h4 {
+  background: coral;
+}
+body {
+  background: whitesmoke;
+  /* background: url(https://cdn.shopify.com/s/files/1/0241/9661/products/WoodGrain_5x5_web.jpg?v=1542787764);
+  background-repeat: repeat; */
+}

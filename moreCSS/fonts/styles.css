@@ -1,0 +1,33 @@
+/* font family*/
+p {
+  font-family: Playfair Display;
+}
+h1 {
+  font-family: Playfair Display;
+}
+/* font size*/
+h1 {
+  font-size: 4em;
+}
+span {
+  font-size: 2em;
+}
+/* font weight*/
+h1 {
+  font-weight: normal;
+}
+/* line height */
+p {
+  line-height: 1.5;
+}
+/* text align*/
+h1 {
+  text-align: center;
+}
+/* text decoration */
+p {
+  text-decoration: underline;
+}
+h1 {
+  text-decoration: line-through;
+}
